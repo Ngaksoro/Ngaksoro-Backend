@@ -10,14 +10,10 @@
 ```bash
   https://ngaksoro-or3mcczqgq-uc.a.run.app/ml-storage
 ```
-## Menampilkan file aksara berdasarkan huruf aksara(dalam alphabet) yang diberikan
+## Menampilkan list asset dan jawaban untuk soal
 
 ```bash
-  https://ngaksoro-or3mcczqgq-uc.a.run.app/image/<huruf>
-```
-Contoh 
-```bash
-  https://ngaksoro-or3mcczqgq-uc.a.run.app/image/ha
+  https://ngaksoro-or3mcczqgq-uc.a.run.app/soal
 ```
 ## Menampilkan seluruh asset yang dibutuhkan pada aplikasi
 
