@@ -1,6 +1,11 @@
 # Cloud Computing - Ngaksoro C23-PS393
 
-![alt text](https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png "ngaksoro")
+<p align="center">
+  ![alt text](https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png "ngaksoro")
+</p>
+
+
+
 
 ## Upload file menggunakan metode POST
 
