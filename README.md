@@ -3,6 +3,10 @@
 <p align="center">
   ![alt text](https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png "ngaksoro")
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png" alt="Image" />
+</p>
+
 
 
 
