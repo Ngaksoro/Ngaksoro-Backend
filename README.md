@@ -1,6 +1,4 @@
 # Penggunaan API
-```
-```
 
 ## Upload file menggunakan metode POST
 
