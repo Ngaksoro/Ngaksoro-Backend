@@ -1,6 +1,6 @@
 # Penggunaan API
 
-![alt text](https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png "ngaksoro)
+![alt text](https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png "ngaksoro")
 
 ## Upload file menggunakan metode POST
 
