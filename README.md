@@ -1,13 +1,8 @@
 # Cloud Computing - Ngaksoro C23-PS393
 
 <p align="center">
-  ![alt text](https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png "ngaksoro")
+  <img src="https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png" alt="Ngaksoro" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png" alt="Image" />
-</p>
-
-
 
 
 
