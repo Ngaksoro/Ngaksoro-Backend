@@ -1,7 +1,7 @@
 # Cloud Computing - Ngaksoro C23-PS393
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png" alt="Ngaksoro" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Ngaksoro/ML-things/main/Ngaksoro.png" alt="Ngaksoro" />
 </p>
 
 
