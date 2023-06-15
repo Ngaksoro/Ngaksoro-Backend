@@ -1,5 +1,5 @@
 # Penggunaan API
-```bash
+```
 ```
 
 ## Upload file menggunakan metode POST
